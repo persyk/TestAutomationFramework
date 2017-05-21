@@ -1,4 +1,4 @@
-package com.elevate.admin;
+package com.pages.admin;
 
 import org.openqa.selenium.WebDriver;
 

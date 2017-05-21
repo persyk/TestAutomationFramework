@@ -1,6 +1,6 @@
-package com.elevate.admin.pageobjects;
+package com.pages.admin.pageobjects;
 
-import com.elevate.admin.BasePage;
+import com.pages.admin.BasePage;
 import org.openqa.selenium.WebDriver;
 
 
